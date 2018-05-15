@@ -1,5 +1,4 @@
 <?php
-exit;
 !defined('DEBUG') AND exit('Access Denied.');
 
 // hook index_inc_start.php
