@@ -1,8 +1,5 @@
 <?php
 
-echo 123;
-
-
 /*
  * Copyright (C) xiuno.com
  */
