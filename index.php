@@ -1,5 +1,4 @@
 <?php
-echo 123123123;
 /*
  * Copyright (C) xiuno.com
  */
