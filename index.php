@@ -4,7 +4,6 @@
  * Copyright (C) xiuno.com
  */
 echo 666;
-echo 666666;
 //xhprof_enable();
 
 //$_SERVER['REQUEST_URI'] = '/?user-login.htm';
