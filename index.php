@@ -52,7 +52,7 @@ include APP_PATH.'model/plugin.func.php';
 include _include(APP_PATH.'model.inc.php');
 include _include(APP_PATH.'index.inc.php');
 
-echo 123123;
+echo 123;
 
 //file_put_contents((ini_get('xhprof.output_dir') ? : '/tmp') . '/' . uniqid() . '.xhprof.xhprof', serialize(xhprof_disable()));
 
